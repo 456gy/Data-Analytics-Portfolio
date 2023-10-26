@@ -1,5 +1,6 @@
 # Data-Analytics-Portfolio
 Welcome to my Data Analyst Portfolio Repository! This repository is a comprehensive showcase of my data analytics projects, demonstrating my expertise in data manipulation, visualization, and interpretation. As a data analyst, I am passionate about turning raw data into actionable insights.
+
 Here's what you can expect from this portfolio:
 1.	**Project Diversity:** This portfolio encompasses a wide range of data analysis projects, including real-world business scenarios, data visualization, and predictive modeling. It demonstrates my versatility in handling various types of data.
 2.	**Data Cleaning and Preprocessing:** Each project emphasizes the importance of data cleaning and preprocessing. I showcase my skills in handling messy data to make it suitable for analysis.
