@@ -24,7 +24,7 @@ Feel free to explore the projects, review the code, and access the Jupyter noteb
 [List of Projects](#Projects)
 
 ## Projects
-1.	**Google Data Analytics Capstone Projects:** 
+1.	**Google Data Analytics professional Certificate capstone projects:** 
     - Cyclistic bike-share analysis case study
     - Wellness technology analysis case study
 
