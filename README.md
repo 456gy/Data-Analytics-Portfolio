@@ -26,6 +26,7 @@ Feel free to explore the projects, review the code, and access the Jupyter noteb
 ## Projects
 1.	**Google Data Analytics Professional Certificate capstone projects:** 
     - Cyclistic bike-share analysis case study
+The case study revolves around Cyclistic, a fictional bike-share company in Chicago. As a junior data analyst on the marketing team, you're tasked with understanding the differences in behavior between casual riders and annual members of Cyclistic's bike-share program. The company aims to convert casual riders into annual members to drive future growth. The analysis will involve examining historical bike trip data to identify trends that will inform the development of a new marketing strategy.    
     - Wellness technology analysis case study
 
 Thank you for visiting my Data Analyst Portfolio Repository. I hope you find the projects here insightful and inspiring.
